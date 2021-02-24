@@ -1,4 +1,6 @@
 # Primer-repository
 Estoy aprendiendo a usar Git
 <br><br/>
-Se como usar pull y push
+Este es mi perfil
+<br><br/>
+Jeje
